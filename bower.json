@@ -1,0 +1,20 @@
+{
+  "name": "inuitless-normalize",
+  "version": "3.0.1",
+  "homepage": "https://github.com/inuitless/generic.normalize",
+  "authors": [
+    "Harry Roberts <harry@csswizardry.com>",
+    "Nicolas Gallagher <nicolasgallagher@gmail.com>",
+    "Nicolas Carlo <nicolascarlo.espeon@gmail.com>"
+  ],
+  "description": "Nicolas Gallagher’s Normalize.css used in the inuitcss framework",
+  "main": "generic.normalize.less",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "normalize",
+    "css",
+    "less"
+  ],
+  "license": "MIT"
+}
